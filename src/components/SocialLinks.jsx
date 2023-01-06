@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub color="black" size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/Akshayoojary",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail color="red" size={30}  />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "akshaypoojary137@gmail.com",
     },
     {
       id: 4,
