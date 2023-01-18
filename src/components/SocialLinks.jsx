@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin color="#0077b5" size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/akshay-poojary-633510207/",
       style: "rounded-tr-md ",
     },
     {
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail color="red" size={30}  />
         </>
       ),
-      href: "akshaypoojary137@gmail.com",
+      href: 'mailto:akshaypoojary137@gmail.com',
     },
     {
       id: 4,
@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill color="#145DA0" size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "https://drive.google.com/uc?export=download&id=1zg2KiEvOlIglJVt0Mw5j4uzIUWmBbv6z",
       style: "rounded-br-md",
       download: true,
     },
